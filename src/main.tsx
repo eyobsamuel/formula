@@ -2,7 +2,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./app.tsx";
+import App from "./App.tsx";
 import "./index.css";
 import "font-awesome/css/font-awesome.min.css";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
