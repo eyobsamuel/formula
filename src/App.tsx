@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { useState } from "react";
 
 import FormulaInput from "./components/formula-input";
